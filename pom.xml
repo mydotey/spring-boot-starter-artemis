@@ -7,10 +7,10 @@
 
 	<groupId>org.mydotey.artemis</groupId>
 	<artifactId>spring-boot-starter-artemis</artifactId>
-	<version>0.1.0</version>
+	<version>0.1.1</version>
 	<packaging>jar</packaging>
 	<name>spring-boot-starter-artemis</name>
-	<description>simple configuration facade</description>
+	<description>Artemis: A Microservices' Service Registry Center</description>
 	<url>https://github.com/mydotey/spring-boot-starter-artemis</url>
 
 	<licenses>
@@ -44,7 +44,7 @@
 		<java.version>1.8</java.version>
 		<source.encoding>UTF-8</source.encoding>
 		<spring-boot.version>2.3.6.RELEASE</spring-boot.version>
-		<artemis.version>2.0.0</artemis.version>
+		<artemis.version>2.0.1</artemis.version>
 		<junit.version>4.12</junit.version>
 		<maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
 		<maven-source-plugin.version>3.0.1</maven-source-plugin.version>
