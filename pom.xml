@@ -7,7 +7,7 @@
 
 	<groupId>org.mydotey.artemis</groupId>
 	<artifactId>spring-boot-starter-artemis</artifactId>
-	<version>0.1.1</version>
+	<version>0.1.2</version>
 	<packaging>jar</packaging>
 	<name>spring-boot-starter-artemis</name>
 	<description>Artemis: A Microservices' Service Registry Center</description>

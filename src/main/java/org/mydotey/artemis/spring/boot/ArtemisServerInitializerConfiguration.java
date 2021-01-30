@@ -15,6 +15,7 @@ public class ArtemisServerInitializerConfiguration implements SmartLifecycle, Or
     @Override
     public void start() {
         ArtemisServer.INSTANCE.init();
+        this.running = true;
     }
 
     @Override
